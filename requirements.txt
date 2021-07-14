@@ -1,0 +1,8 @@
+// id ataması için
+npm install uuix
+
+// bootstrap için
+npm install bootstrap
+
+// database bağlantısı için
+npm install axios
