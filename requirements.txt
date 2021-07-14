@@ -6,3 +6,6 @@ npm install bootstrap
 
 // database bağlantısı için
 npm install axios
+
+// Başlatmak için
+npm start
